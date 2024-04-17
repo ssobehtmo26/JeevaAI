@@ -22,7 +22,7 @@ Starting the Server
 
 ```bash
   // backend terminal
-  // add a .env file int the backend folder and store a dummy mongo uri by the variable name 'URI'
+  // add a .env file in the backend folder and store a dummy mongo uri by the variable name 'URI'
   nodemon server
 ```
 
